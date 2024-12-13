@@ -1,0 +1,8 @@
+a{
+  transition: .3s ;
+  font-weight: bold;
+}
+a:hover {
+  transition:ease-in-out .1s;
+  font-size: 15px;
+}

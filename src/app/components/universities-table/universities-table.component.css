@@ -1,0 +1,8 @@
+svg{
+  transition: .3s ;
+  width: 30px;
+}
+svg:hover {
+  transition:ease-in-out .1s;
+  width: 45px;
+}

@@ -1,0 +1,24 @@
+{
+  "//": [{
+      "short_name" : "show on Home Screen (include window)",
+      "name": "show on Splash Screen",
+      "theme_color":"ธีมสีหลักของแอพเราครับ สีนี้จะไปแสดงผลตรง Address bar กับ Browser ที่ Support ครับ",
+      "display":"โหมดการแสดงผลของ App ตั้งค่าได้หลายแบบเช่น ถ้าเรากำหนดเป็น fullscreen App จะแสดงผลเต็มจอครับ แต่ถ้าเรากำหนดเป็น standalone เวลาเปิด App จะให้ความรู้สึกเหมือน Native App ครับ",
+      "background_color":"สี Background ของ App จะโชว์ตรง Splash Screen",
+  }],
+  "name": "lab angular crud free api and make pwa",
+  "short_name": "Angular + Pwa",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/icons/t.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
